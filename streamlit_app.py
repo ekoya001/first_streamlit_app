@@ -1,2 +1,2 @@
-Import strea-mlit
+Import streamlit
 streamlit.title('My Parents New Halthy Diner')
